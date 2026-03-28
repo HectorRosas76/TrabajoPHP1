@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+ul {
+    list-style: inside;
+    
+}
+
+li {
+    margin: 10px;
+    border-color: red;
+    color: red;
+}
+
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+h2{
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+}

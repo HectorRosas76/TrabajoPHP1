@@ -21,4 +21,5 @@ class promedio_media_moda {
         return array_keys($conteo)[0];
     }
 }
+
 ?>
