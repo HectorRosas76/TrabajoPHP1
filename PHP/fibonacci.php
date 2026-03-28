@@ -1,5 +1,5 @@
 <?php
-class Fibonacci2 {
+class Fibonacci {
     public function generar($n) {
         $serie = [];
 
